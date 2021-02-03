@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://Inam:inam123@devconnector.acy6n.mongodb.net/books?retryWrites=true&w=majority"
+}
